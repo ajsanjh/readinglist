@@ -5,4 +5,4 @@
 
 
 #### Quick Read
-1. [Logging Levles Rule of Thumb]: https://stackoverflow.com/questions/7839565/logging-levels-logback-rule-of-thumb-to-assign-log-levels
+1. [Logging Levles Rule of Thumb](https://stackoverflow.com/questions/7839565/logging-levels-logback-rule-of-thumb-to-assign-log-levels)
